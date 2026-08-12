@@ -186,8 +186,6 @@ REST API Design • JWT • OAuth • RBAC • Socket.IO • Microservices Archi
 
 <img src="https://github-stats-extended.vercel.app/api?username=abhiguptanitb&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhiguptanitb&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=abhiguptanitb&theme=tokyonight&hide_border=true" height="180"/>
