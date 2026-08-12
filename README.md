@@ -45,35 +45,57 @@ Final-year Electrical Engineering student at **MANIT Bhopal**, passionate about 
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,sql" />
+  <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java" /> <b>Java</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" /> <b>JavaScript</b>
+  &nbsp;&nbsp;&nbsp;
+  🗃️ <b>SQL</b>
 </p>
 
 ### ⚙️ Backend & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" /> <b>Node.js</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express.js" /> <b>Express.js</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="40" alt="React.js" /> <b>React.js</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind CSS" /> <b>Tailwind CSS</b>
 </p>
 
 ### 🗄️ Databases & Messaging
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB" /> <b>MongoDB</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL" /> <b>PostgreSQL</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" /> <b>MySQL</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" width="40" alt="Redis" /> <b>Redis</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=rabbitmq" width="40" alt="RabbitMQ" /> <b>RabbitMQ</b>
 </p>
 
 ### 🐳 DevOps & Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" /> <b>Docker</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" /> <b>Git</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" /> <b>GitHub</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman" /> <b>Postman</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VS Code" /> <b>VS Code</b>
 </p>
 
 ### 🔌 Backend & System Design
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,redis,rabbitmq,docker" />
-</p>
+**REST API Design** • **JWT** • **OAuth** • **RBAC** • **Socket.IO** • **Microservices Architecture** • **System Design**
 
-**Also experienced with:**
-REST API Design • JWT • OAuth • RBAC • Socket.IO • Microservices Architecture • System Design
 
 ---
 
